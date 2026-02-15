@@ -15,44 +15,6 @@ vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@5.188.143.8:8443?flow=xtls-rprx-vis
 vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@5.188.143.8:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=c8x7I-K2ONBUw5B2d1aZr7JNcFUu7GDfs8PAK-4qM1E&sid=0d33e856#🇷🇺Россия | Обход #3
 vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@5.188.143.8:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=IJXhnkkk8ouGXeOF1DXEfsz8HsuQHZBJm8VXlRMd0Hg&sid=1d33e456#🇷🇺Россия | Обход #4
 vless://f7ba22f6-2499-4923-a521-2da2ba37af20@0.0.0.0:1?flow=&type=tcp&headerType=none&security=none#Brawl Stars ⬇️
-vless://e28c3c89-48cd-2710-bce6-8243a85040f3@ilovemax.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺Россия | Обход #1
-vless://be03103f-7e9d-03e8-8bf1-046792e3d579@lk-cdn.deploy-assure.ru:443?flow=&type=ws&host=lk-cdn.deploy-assure.ru&path=//&security=tls&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇷🇺Россия | Обход #2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@5.188.143.8:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=IJXhnkkk8ouGXeOF1DXEfsz8HsuQHZBJm8VXlRMd0Hg&sid=1d33e456#🇷🇺Россия | Обход #1
+vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@5.188.143.8:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=c8x7I-K2ONBUw5B2d1aZr7JNcFUu7GDfs8PAK-4qM1E&sid=0d33e856#🇷🇺Россия | Обход #2
+vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@5.188.143.8:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=IJXhnkkk8ouGXeOF1DXEfsz8HsuQHZBJm8VXlRMd0Hg&sid=1d33e456#🇷🇺Россия | Обход #3
