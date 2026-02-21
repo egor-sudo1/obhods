@@ -13,7 +13,7 @@ vless://e28c3c89-48cd-2710-bce6-8243a85040f3@5.188.141.12:52006?flow=xtls-rprx-v
 vless://be03103f-7e9d-0bb8-8bf1-046792e3d579@89.208.228.139:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮Финляндия | Обход #12
 vless://8153a965-34bf-4605-99a6-99a9390fd38a@146.185.242.246:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇪🇪Эстония | Обход #13
 vless://be03103f-7e9d-01f4-8bf1-046792e3d579@morgentop.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪Германия | Обход #14
-
+vless://52dbc2d8-00c5-03e8-a898-22718fb85c12@37.139.33.223:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪Германия | Обход #15
 
 
 
