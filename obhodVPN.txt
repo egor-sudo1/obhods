@@ -4,7 +4,6 @@ vless://17939923-96d1-4aae-be20-0240dc8bf4c3@de.bvpn.cc:443?encryption=none&flow
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@nl.bvpn.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.bvpn.cc&fp=qq&pbk=GG8LuzulPcH1Jeg_fSrgbxoKhcVC6SPEYKPul1LbL1o&sid=a57d7ac6afa052&type=tcp#🇳🇱Нидерланды
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@lv.bvpn.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv.bvpn.cc&fp=qq&pbk=U7HBZ8z_lEujP46JoRz5YmA_iKLd4Gx3TP3nG5LV7VQ&sid=8cb4b6e9719e&type=tcp#🇱🇻Латвия
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@se.bvpn.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.bvpn.cc&fp=qq&pbk=zHH1C7H5-EM31UUzYSN5DjlZb_UyZC_Q7Y8HJYaPPAA&sid=eb03d43e&type=tcp#🇸🇪Швеция
-vless://17939923-96d1-4aae-be20-0240dc8bf4c3@fr.bvpn.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.bvpn.cc&fp=qq&pbk=65T6l7e51lwKu1rzQ4FgqVPe-JyG43IqPLw6r9U2v10&sid=0befa76540b5db79&type=tcp#🇫🇷Франция
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@tr.bvpn.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr.bvpn.cc&fp=qq&pbk=kdncDpzduVzKfK2q8lJnW6yYsol2OnHVhbMVdhMYWE0&sid=841bbabe&type=tcp#🇹🇷Турция
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@kz.bvpn.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.bvpn.cc&fp=qq&pbk=0SWADyyLJ3WwwBH_qAAV2R7rhbm8YkEUlIyjWe9JsWA&sid=0c49a3870b5c0e8c&type=tcp#🇰🇿Казахстан
 vless://528168c0-7c19-4d5f-b18b-2799bedbaeed@0.0.0.0:1?type=tcp&headerType=none&security=none#ОБХОДЫ БЕЛЫХ СПИСКОВ
