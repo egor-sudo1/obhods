@@ -16,3 +16,4 @@ trojan://UzSsKg2ftnaKBs5QgjgHK_obT_Tt3-cU@185.91.54.224:7443?security=tls&sni=pl
 vless://528168c0-7c19-4d5f-b18b-2799bedbaeed@0.0.0.0:1?type=tcp&headerType=none&security=none#РЕЗЕРВНЫЕ ОБХОДЫ
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@158.160.27.156:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&sid=03fc2932#🇷🇺ОБХОД #1 | РЕЗЕРВ
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@84.201.160.104:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&sid=03fc2932#🇷🇺ОБХОД #2 | РЕЗЕРВ
+vless://17939923-96d1-4aae-be20-0240dc8bf4c3@158.160.72.3:443?encryption=none&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&sid=03fc2932&type=tcp#🇷🇺ОБХОД #3 | РЕЗЕРВ
