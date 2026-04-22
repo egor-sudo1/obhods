@@ -7,10 +7,6 @@ vless://17939923-96d1-4aae-be20-0240dc8bf4c3@se.bvpn.cc:443?encryption=none&flow
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@tr.bvpn.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr.bvpn.cc&fp=qq&pbk=kdncDpzduVzKfK2q8lJnW6yYsol2OnHVhbMVdhMYWE0&sid=841bbabe&type=tcp#🇹🇷Турция
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@kz.bvpn.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.bvpn.cc&fp=qq&pbk=0SWADyyLJ3WwwBH_qAAV2R7rhbm8YkEUlIyjWe9JsWA&sid=0c49a3870b5c0e8c&type=tcp#🇰🇿Казахстан
 vless://528168c0-7c19-4d5f-b18b-2799bedbaeed@0.0.0.0:1?type=tcp&headerType=none&security=none#ОБХОДЫ БЕЛЫХ СПИСКОВ
-trojan://vbje-ZZ60bGWqA6Xw8arVGfSZpeTWG9g@109.120.190.146:8443?security=tls&sni=pl.serverstats.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #1 | LTE
-trojan://vbje-ZZ60bGWqA6Xw8arVGfSZpeTWG9g@109.120.190.132:7443?security=tls&sni=plone.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #2 | LTE
-trojan://6g2svk5nC_7ktsvgZ-bUe2swnqEYst5B@109.120.191.129:8443?security=tls&sni=pltwo.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #3 | LTE
-trojan://6g2svk5nC_7ktsvgZ-bUe2swnqEYst5B@109.120.191.129:7443?security=tls&sni=plthree.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #4 | LTE
-trojan://UzSsKg2ftnaKBs5QgjgHK_obT_Tt3-cU@79.174.95.188:7443?security=tls&sni=pltwo.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #5 | LTE
-trojan://UzSsKg2ftnaKBs5QgjgHK_obT_Tt3-cU@185.91.54.224:7443?security=tls&sni=pltwo.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #6 | LTE
+trojan://UzSsKg2ftnaKBs5QgjgHK_obT_Tt3-cU@79.174.95.188:7443?security=tls&sni=pltwo.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #1 | LTE
+trojan://UzSsKg2ftnaKBs5QgjgHK_obT_Tt3-cU@185.91.54.224:7443?security=tls&sni=pltwo.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #2 | LTE
 
