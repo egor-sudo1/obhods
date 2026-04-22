@@ -7,6 +7,8 @@ vless://17939923-96d1-4aae-be20-0240dc8bf4c3@se.bvpn.cc:443?encryption=none&flow
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@tr.bvpn.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr.bvpn.cc&fp=qq&pbk=kdncDpzduVzKfK2q8lJnW6yYsol2OnHVhbMVdhMYWE0&sid=841bbabe&type=tcp#🇹🇷Турция
 vless://17939923-96d1-4aae-be20-0240dc8bf4c3@kz.bvpn.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.bvpn.cc&fp=qq&pbk=0SWADyyLJ3WwwBH_qAAV2R7rhbm8YkEUlIyjWe9JsWA&sid=0c49a3870b5c0e8c&type=tcp#🇰🇿Казахстан
 vless://528168c0-7c19-4d5f-b18b-2799bedbaeed@0.0.0.0:1?type=tcp&headerType=none&security=none#ОБХОДЫ БЕЛЫХ СПИСКОВ
-trojan://UzSsKg2ftnaKBs5QgjgHK_obT_Tt3-cU@79.174.95.188:7443?security=tls&sni=pltwo.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #1 | LTE
-trojan://UzSsKg2ftnaKBs5QgjgHK_obT_Tt3-cU@185.91.54.224:7443?security=tls&sni=pltwo.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #2 | LTE
+vless://9b9b1738-c928-43d4-9e92-2a9c52d62629@158.160.255.56:443?flow=&type=grpc&mode=gun&serviceName=grpc&security=reality&fp=chrome&sni=st.vk.com&pbk=ZY9w3NV1Udr7U3pXU0h4Lpk0svmgMUvIJrfuEjF9wnU&sid=a1b2#🇪🇺ОБХОД #1 | LTE
+vless://9b9b1738-c928-43d4-9e92-2a9c52d62629@158.160.242.29:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=music.yandex.ru&pbk=cBNuFvTxs4mV1E_Y_O9Y5GqVptE4BHlRvUdZcQ1VZTo&sid=398ca550#🇪🇺ОБХОД #2 | LTE
+vless://9b9b1738-c928-43d4-9e92-2a9c52d62629@158.160.203.234:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=cBNuFvTxs4mV1E_Y_O9Y5GqVptE4BHlRvUdZcQ1VZTo&sid=398ca550#🇪🇺ОБХОД #3 | LTE
+vless://9b9b1738-c928-43d4-9e92-2a9c52d62629@158.160.245.242:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=suggest.yandex.ru&pbk=cBNuFvTxs4mV1E_Y_O9Y5GqVptE4BHlRvUdZcQ1VZTo&sid=398ca550#🇪🇺ОБХОД #4 | LTE
 
