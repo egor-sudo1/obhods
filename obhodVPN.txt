@@ -13,10 +13,4 @@ trojan://6g2svk5nC_7ktsvgZ-bUe2swnqEYst5B@109.120.191.129:8443?security=tls&sni=
 trojan://6g2svk5nC_7ktsvgZ-bUe2swnqEYst5B@109.120.191.129:7443?security=tls&sni=plthree.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #4 | LTE
 trojan://UzSsKg2ftnaKBs5QgjgHK_obT_Tt3-cU@79.174.95.188:7443?security=tls&sni=pltwo.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #5 | LTE
 trojan://UzSsKg2ftnaKBs5QgjgHK_obT_Tt3-cU@185.91.54.224:7443?security=tls&sni=pltwo.rushtaxi.ru&alpn=h2,http/1.1#🇪🇺ОБХОД #6 | LTE
-vless://528168c0-7c19-4d5f-b18b-2799bedbaeed@0.0.0.0:1?type=tcp&headerType=none&security=none#ТЕСТОВЫЕ СЕРВЕРЫ
-vless://077d2a65-a238-4159-9c5b-c8707de5174a@51.250.89.111:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇪🇺ОБХОД #1 | LTE
-vless://da2af675-c620-4bb8-8a0d-8a37467aadb7@51.250.89.111:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇪🇺ОБХОД #2 | LTE
-vless://da2af675-c620-4bb8-8a0d-8a37467aadb7@51.250.89.111:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇪🇺ОБХОД #3 | LTE
-vless://96d2b827-128f-4934-a5fd-48a03a3cb610@84.201.163.193:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=io.ozone.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇪🇺ОБХОД #4 | LTE
-vless://96d2b827-128f-4934-a5fd-48a03a3cb610@84.201.163.193:8090?type=xhttp&host=&path=/&mode=auto&security=reality&fp=qq&sni=ads.x5.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0#🇪🇺ОБХОД #5 | LTE
-vless://da2af675-c620-4bb8-8a0d-8a37467aadb7@84.201.163.193:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇪🇺ОБХОД #6 | LTE
+
